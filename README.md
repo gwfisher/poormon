@@ -1,0 +1,1 @@
+This is my own home-rolled monitoring solution because I literally hate every monitoring solution out there. It probably has no use to anyone else.
